@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">rating</string>
+    <!-- res/values/strings.xml -->
+
+
+        <string-array name="categories">
+            <item>Smartphones</item>
+            <item>Cosmetics</item>
+            <item>Clothing</item>
+            <item>Headphones</item>
+            <item>Appliances</item>
+            <item></item>
+            <!-- Add more categories as needed -->
+        </string-array>
+
+
+        <string name="select_category_prompt">Select Category</string>
+        <string name="improvement_hint">One thing you want to get improved</string>
+        <string name="submit_button_text">Submit</string>
+
+</resources>
